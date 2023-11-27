@@ -2,12 +2,7 @@ package strings;
 
 public class MaxRepeatedchar 
 {
-	/**
-	 * @param args
-	 */
-	/**
-	 * @param args
-	 */
+
 	public static void main(String[] args) 
 	{
 	  String  s = "this is demo abc xyz";
@@ -36,9 +31,6 @@ public class MaxRepeatedchar
 	  }
 	  
 	  System.out.print("max repeated char is:"+ c +" & it is repeated for  "  +  count  +" times ");
-	  
-	  
-	  
-	 
+	    
 	}
 }
