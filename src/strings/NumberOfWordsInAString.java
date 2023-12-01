@@ -14,8 +14,6 @@ public class NumberOfWordsInAString
 		 int totalWord = arrOfStr.length;
 		 
 		 System.out.println("Total words :"+  totalWord);
-		
-
+	
 	}
-
 }
